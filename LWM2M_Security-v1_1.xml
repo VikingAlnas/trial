@@ -270,7 +270,7 @@ If the value is set to 0, or if this resource is not instantiated, the Bootstrap
 				<Operations></Operations>
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
-				<Type>Objlnk</Type>
+				<Type>Wrong</Type>
 				<RangeEnumeration></RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[If this resource is defined, it provides a link to the OSCORE Object Instance.]]></Description>
