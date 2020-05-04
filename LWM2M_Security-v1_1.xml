@@ -109,7 +109,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Operations></Operations>
         <MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Mandatory</Mandatory>
-				<Type>Opaque</Type>
+				<Type>Wrong</Type>
 				<RangeEnumeration></RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[Stores the LwM2M Client’s certificate, public key (RPK mode) or PSK Identity (PSK mode).]]></Description>
