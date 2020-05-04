@@ -74,7 +74,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <Operations></Operations>
         <MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Mandatory</Mandatory>
-				<Type>String</Type>
+				<Type>Test</Type>
 				<RangeEnumeration>0-255 bytes</RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[Uniquely identifies the LwM2M Server or LwM2M Bootstrap-Server. The format of the CoAP URI is defined in Section 6 of RFC 7252.]]></Description>
